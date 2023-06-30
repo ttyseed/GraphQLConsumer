@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GraphQLClientAPI/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+*.lock
+*.v2
+/.vs/GraphQLClientAPI/v17
+*.bin
+/bin/Debug/net6.0/runtimes
+/bin/Debug/net6.0
+/obj
